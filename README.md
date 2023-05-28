@@ -1,3 +1,5 @@
+# This is just a copy from Bark, so [my Notebook](https://github.com/WaGi-Coding/TakiBark_Colab-Notebook) does not break with unexcpected changes on the main repository.
+
 # 🐶 Bark
 
 [![](https://dcbadge.vercel.app/api/server/J2B2vsjKuE?style=flat&compact=True)](https://discord.gg/J2B2vsjKuE)
